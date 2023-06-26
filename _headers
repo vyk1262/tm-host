@@ -1,8 +1,8 @@
-/model.json
+/model/model.json
   Access-Control-Allow-Origin: *
 
-/metadata.json
+/model/metadata.json
   Access-Control-Allow-Origin: *
 
-/weights.bin
+/model/weights.bin
   Access-Control-Allow-Origin: *
