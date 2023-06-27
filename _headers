@@ -18,3 +18,15 @@
 
 /model2/group1-shard2of2.bin
   Access-Control-Allow-Origin: *
+
+/kia/model.json
+  Access-Control-Allow-Origin: *
+
+/kia/metadata.json
+  Access-Control-Allow-Origin: *
+
+/kia/group1-shard1of2.bin
+  Access-Control-Allow-Origin: *
+
+/kia/group1-shard2of2.bin
+  Access-Control-Allow-Origin: *
