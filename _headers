@@ -6,3 +6,15 @@
 
 /model/weights.bin
   Access-Control-Allow-Origin: *
+
+/model2/model.json
+  Access-Control-Allow-Origin: *
+
+/model2/metadata.json
+  Access-Control-Allow-Origin: *
+
+/model2/group1-shard1of2.bin
+  Access-Control-Allow-Origin: *
+
+/model2/group1-shard2of2.bin
+  Access-Control-Allow-Origin: *
