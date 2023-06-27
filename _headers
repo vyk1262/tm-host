@@ -30,3 +30,12 @@
 
 /kia/group1-shard2of2.bin
   Access-Control-Allow-Origin: *
+
+/kiaTm/model.json
+  Access-Control-Allow-Origin: *
+
+/kiaTm/metadata.json
+  Access-Control-Allow-Origin: *
+
+/kiaTm/weights.bin
+  Access-Control-Allow-Origin: *
